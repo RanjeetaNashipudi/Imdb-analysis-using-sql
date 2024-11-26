@@ -1,4 +1,4 @@
-# Imdb-analysis-using-sql
+# Imdb-analysis-using-sql and Visualization Through Power Bi
 IMDB movie_analysis has been done using tools Excel,Oracle21C and Sql Developer
 
 Project: IMDb Movie Data Analysis
@@ -16,3 +16,8 @@ Most popular genres among viewers
 Directors with the highest-grossing films
 Trends in movie ratings over time
 Results: Provided insights into movie trends, preferences of viewers, and correlations between movie ratings, revenue, and genres, which can be used to inform strategic decision-making in the film industry.
+
+
+With the help of Power Bi software got all the insights results into graphical form
+
+used new measures in Power Bi
